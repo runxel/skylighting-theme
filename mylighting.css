@@ -1,0 +1,33 @@
+/*! https://github.com/runxel/skylighting-theme */
+
+pre.sourceCode { background: hsla(0, 0%, 0%, 0.035) }
+pre code { color: #657B83; }
+code span.kw { color: #009952; } /* Keyword */
+code span.dt { color: #6400b5; } /* DataType */
+code span.dv { color: #2AA198; } /* DecVal */
+code span.bn { color: #2AA198; } /* BaseN */
+code span.fl { color: #2AA198; } /* Float */
+code span.ch { color: #2AA198; } /* Char */
+code span.st { color: #d48d30; } /* String */
+code span.co { color: #93A1A1; font-style: italic; } /* Comment */
+code span.ot { color: rgb(59, 96, 122); } /* Other */
+code span.al { color: #DC322F; } /* Alert */
+code span.fu { color: #1f95e9; } /* Function */
+code span.cn { color: #2a46a1; } /* Constant */
+code span.sc { color: #DC322F; } /* SpecialChar */
+code span.vs { color: #657B83; } /* VerbatimString */
+code span.ss { color: #DC322F; } /* SpecialString */
+code span.im { color: #b33424; } /* Import */
+code span.va { color: #268BD2; } /* Variable */
+code span.cf { color: #533f8b; } /* ControlFlow */
+code span.op { color: #23b691; } /* Operator */
+code span.bu { color: #657B83; } /* BuiltIn */
+code span.ex { color: #657B83; } /* Extension */
+code span.pp { color: #c7b132; } /* Preprocessor */
+code span.at { color: #657B83; } /* Attribute */
+code span.er { color: #DC322F; } /* Error */
+code span.wa { color: #CB4B16; font-style: italic; } /* Warning */
+code span.do { color: #93A1A1; font-style: italic; } /* Documentation */
+code span.an { color: #93A1A1; font-style: italic; } /* Annotation */
+code span.cv { color: #93A1A1; font-style: italic; } /* CommentVar */
+code span.in { color: #93A1A1; font-weight:normal; font-style: normal; } /* Information */

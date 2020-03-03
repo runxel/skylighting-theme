@@ -1,0 +1,19 @@
+/* Just some basic styling */
+html {
+    font-size: 20px;
+}
+body { 
+    background-color: hsl(30, 16%, 95%);
+    color: hsl(0, 0%, 11%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 40vw;
+    margin: 4vh auto;
+}
+pre,
+code {
+    font-family: Consolas, 'Courier New', Courier, monospace;
+}
+pre.sourceCode {
+    border-radius: 0.1rem;
+    padding: 0.6rem;
+}
